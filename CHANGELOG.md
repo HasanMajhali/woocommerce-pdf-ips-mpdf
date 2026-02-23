@@ -1,5 +1,9 @@
 # Changelog
 
+### v3.0.0
+
+- Fix: PSR-Log v3 conflict by prefixing mPDF dependencies with Strauss
+
 ### v2.8.1
 
 - Fix: Restrict hybrid format to supported document types only
