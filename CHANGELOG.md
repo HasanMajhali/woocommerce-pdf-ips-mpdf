@@ -1,5 +1,9 @@
 # Changelog
 
+### v3.1.0
+
+- New: Update mPDF to 8.3.1
+
 ### v3.0.0
 
 - Fix: PSR-Log v3 conflict by prefixing mPDF dependencies with Strauss
